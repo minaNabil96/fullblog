@@ -1,0 +1,119 @@
+[
+	{
+		"name": "Admissions",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "Degree Programmes",
+				"containes": [
+					"Undergraduate Programmes",
+					"Graduate Programmes",
+					"Doctoral Programmes",
+					"Online Programmes"
+				]
+			},
+			{
+				"subName": "Scholarships",
+				"containes": [
+					"Scholarships and Discounts",
+					"HSE Global Scholarship Competition",
+					"Open Doors: Russian Scholarship Project"
+				]
+			},
+			{
+				"subName": "Prepare to Apply",
+				"containes": [
+					"Visa Support",
+					"Mock Tests",
+					"International Student Support"
+				]
+			}
+		]
+	},
+	{
+		"name": "Programmes & Courses",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "English-taught Degree Programmes",
+				"containes": ["Bachelor's", "Master's"]
+			},
+			{
+				"subName": "Short-term Programmes",
+				"containes": [
+					"Semester in Moscow",
+					"Russian Language Training",
+					"Doing Business in Russia—Internship",
+					"Summer Schools",
+					"Exchange Programmes"
+				]
+			}
+		]
+	},
+	{
+		"name": "Research",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "Divisions",
+				"containes": ["Research Centres", "International Laboratories"]
+			},
+			{
+				"subName": "Events",
+				"containes": ["Conferences"]
+			},
+			{
+				"subName": "Publications",
+				"containes": [
+					"Database of Publications",
+					"HSE University Review"
+				]
+			}
+		]
+	},
+	{
+		"name": "International Support",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "Support",
+				"containes": [
+					"For International Students",
+					"For International Faculty"
+				]
+			},
+			{
+				"subName": "Partnerships",
+				"containes": [
+					"International Partnerships",
+					"Double-degree Programmes",
+					"Membership in Associations"
+				]
+			}
+		]
+	},
+	{
+		"name": "About",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "Who We Are",
+				"containes": [
+					"Facts and Figures",
+					"HSE in Rankings",
+					"Development Programme",
+					"HSE University History",
+					"Staff Directory"
+				]
+			},
+			{
+				"subName": "Buildings",
+				"containes": [
+					"HSE Buildings",
+					"Dormitories",
+					"Student Housing Office"
+				]
+			}
+		]
+	}
+]

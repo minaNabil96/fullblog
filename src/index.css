@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Alexandria:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font:
+      600 1.25em/1.33 "HSE Sans",
+      "Proxima Nova",
+      Arial,
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Almarai", sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  .control_svg {
+    display: inline-block;
+    vertical-align: top;
+    color: rgb(241, 245, 249);
+  }
+  .control__path {
+    fill: currentColor;
+  }
+
+  .swiper-pagination-bullet {
+    background: #000;
+  }
+  .swiper-pagination-bullet-active .path {
+    display: inline-block !important;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 0;
+    animation: dash linear 120s;
+    animation-iteration-count: unset;
+  }
+  .path {
+    display: none;
+  }
+
+  .centerPosition {
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    transform: translateY(-50%);
+  }
+
+  /* ul,
+  ol {
+    list-style: revert;
+  }*/
+
+  @keyframes dash {
+    from {
+      stroke-dashoffset: 1000;
+    }
+
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1",
+		"title": "جميع النصوص في ذلك العنوان هي فقط للتجربة يا ترى ماذا سيحدث.",
+		"section": "education",
+		"body": "On October 26–28, the HSE Institute of Artificial Intelligence and Digital Sciences will hold a conference titled Fall into ML 2023 with support from the HSE University AI Research Centre. The event is dedicated to promising directions of fundamental AI development.",
+		"image": "https://www.hse.ru/pubs/share/direct/842627818.jpg"
+	},
+	{
+		"id": "2",
+		"title": "International Study Tour Experience: Discover HSE University",
+		"body": "Companies that work with large volumes of data, including unstructured ones (texts, video, audio, and images), need qualified personnel capable of searching, processing, and analysing information, finding implicit connections and building complex models that will help the company reach a new level and, of course, increase revenue. At the same time, basic knowledge about the features of big data analysis and the capabilities of technologies used by Data Science specialists is required not only by professionals in this field, but also by business customers, who must, at least to some extent, understand how exactly these technologies and the people who own them are able to help their business, and what can and can’t be expected from them.",
+		"section": "research",
+		"image": "https://www.hse.ru/pubs/share/direct/850292994.jpg"
+	},
+	{
+		"id": "3",
+		"title": "2023 Handbook for International Students",
+		"section": "society",
+		"body": "Maria Petrova, who holds a bachelor’s from HSE University Perm and a master’s from the HSE ICEF programme, is a department head at Sovcombank. In this interview with Success Builder, she explains which qualities a beginner needs to work as a bank analyst, how to pick up leadership skills at the workplace, and why Sovcombank trains its own staff.",
+		"image": "https://www.hse.ru/pubs/share/direct/747795177.jpg"
+	}
+]
